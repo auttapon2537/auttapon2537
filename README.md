@@ -31,7 +31,7 @@
 
 ---
 
-- 🔭 I’m currently working as **NSTDA**
+- 🔭 I’m currently working as **NSTDA**, **Thailand**
 - 🌱 I’m currently learning **Blockchain**, **AI**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
