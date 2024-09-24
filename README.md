@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Developer from Thailand</h3>
 
 ## 💬 Ask me about
-- Backend web development (Golang)
+- Backend web development (Golang with Clean Architecture)
 - Frontend web development (Next.js, Angular)
 - Docker
 - Cloud Architecture (AWS EC2)
