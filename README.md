@@ -2,21 +2,11 @@
 <h3 align="center">A Full-Stack Developer from Thailand</h3>
 
 ## 💬 Ask me about
-- Backend web development (Python, TypeScript, PHP)
-- Frontend web development (Vue.js, React.js)
+- Backend web development (Golang)
+- Frontend web development (Next.js, Angular)
 - Docker
-- Deep Learning and Machine Learning
 - Cloud Architecture
 - Design Patterns
-- Gardening (Bonsai enthusiast :evergreen_tree:)
-- Side projects (Lazy Link ft. @dmfigueroa)
-
-## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
-- Watch anime and TV shows
-- Read some manga
-- Play videogames
-- etc...
 
 ## 💻 Current projects
 - viajin [WIP] - Side project
@@ -24,11 +14,8 @@
 - todo [WIP] - Side project
 
 ## 📚 Learning
-- React.js with my wife 👩‍❤️‍👨
-- Hono.js with RPC
-- Remix
-- TypeScript
-- Cloudflare workers
+- AI
+- Blockchain
 
 ---
 
