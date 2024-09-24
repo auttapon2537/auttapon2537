@@ -8,10 +8,13 @@
 - Cloud Architecture (AWS EC2)
 - Design Patterns
 
-## 💻 Current projects
-- viajin [WIP] - Side project
-- budget [WIP] - Side project
-- todo [WIP] - Side project
+## 🌱 My latest projects
+
+- [maximousblk/upsmon](https://github.com/maximousblk/upsmon) - A simple UPS monitor for Raspberry Pi
+- [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
+- [maximousblk/quantera](https://github.com/maximousblk/quantera) - 
+- [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
+- [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
 
 ## 📚 Learning
 - AI
