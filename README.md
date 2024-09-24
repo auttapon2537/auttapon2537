@@ -3,8 +3,8 @@
 
 ---
 
-- 🔭 I’m currently working as **Sr. Software Engineer @ Tech9**
-- 🌱 I’m currently learning **Blockchain**
+- 🔭 I’m currently working as **NSTDA**
+- 🌱 I’m currently learning **Blockchain**, **AI**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🤔 I’m looking for help with digital marketing to drive traffic to my blog
 - 💬 Ask me about **Web Development**
