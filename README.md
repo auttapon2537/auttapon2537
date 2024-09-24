@@ -1,7 +1,19 @@
 ## Hi there 👋
 
+
+---
+
+- 🔭 I’m currently working as **Sr. Software Engineer @ Tech9**
+- 🌱 I’m currently learning **Blockchain**
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me:
+  **[LinkedIn](https://www.linkedin.com/in/auttapon-khoeyputsa-303137198/), [Instagram](https://www.instagram.com/auttapon37/)**
+  
+
 <h1 align="center">Hi 👋, I'm Auttapon Khoeyputsa</h1>
-<h3 align="center">A passionate full stack developer from Thailand</h3>
+<h3 align="center">A Full-Stack Developer from Thailand</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
