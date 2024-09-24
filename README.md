@@ -5,7 +5,7 @@
 - Backend web development (Golang)
 - Frontend web development (Next.js, Angular)
 - Docker
-- Cloud Architecture
+- Cloud Architecture (AWS EC2)
 - Design Patterns
 
 ## 💻 Current projects
