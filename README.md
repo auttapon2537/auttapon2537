@@ -19,14 +19,6 @@
 ## 📚 Learning
 - AI
 - Blockchain
-
----
-
-- 🔭 I’m currently working as **NSTDA**, **Thailand**
-- 🌱 I’m currently learning **Blockchain**, **AI**
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me:
-  **[LinkedIn](https://www.linkedin.com/in/auttapon-khoeyputsa-303137198/), [Instagram](https://www.instagram.com/auttapon37/)**
   
 
 <h3 align="left">Languages and Tools:</h3>
