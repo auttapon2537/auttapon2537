@@ -14,7 +14,7 @@
 - Develop a UCEP (Universal Coverage for Emergency Patients) system for  government agencies in Thailand.
 
 ## 📚 Learning
-- AI
+- AI and Machine learning
 - Blockchain
   
 ## Languages and Tools:
