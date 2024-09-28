@@ -13,6 +13,7 @@
 - Develop a PACS (Picture Archiving and Communication System) for hospitals with limited funds.
 - Develop a UCEP (Universal Coverage for Emergency Patients) system for  government agencies in Thailand.
 - Develop a Realtime Dashboard for Digital EMS 1669 (D1669) Platform for National Institute for Emergency Medicine (NIEMS)
+- Develop a DDC-Care Management System of DDC-Care Platform (COVID-19 risk tracking and assessment system)
 
 ## 📚 Learning
 - AI and Machine learning
