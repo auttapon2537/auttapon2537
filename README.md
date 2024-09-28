@@ -12,6 +12,7 @@
 
 - Develop a PACS (Picture Archiving and Communication System) for hospitals with limited funds.
 - Develop a UCEP (Universal Coverage for Emergency Patients) system for  government agencies in Thailand.
+- Develop a Realtime Dashboard for Digital EMS 1669 (D1669) Platform for National Institute for Emergency Medicine (NIEMS)
 
 ## 📚 Learning
 - AI and Machine learning
