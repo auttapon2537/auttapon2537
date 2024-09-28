@@ -10,8 +10,8 @@
 
 ## 🌱 My latest projects
 
-- Develop a PACS (Picture Archiving and Communication System) for Hospitals that are short of funds.
-- Develop a UCEP (Universal Coverage for Emergency Patients)  for Government agencies, Thailand.
+- Develop a PACS (Picture Archiving and Communication System) for hospitals with limited funds.
+- Develop a UCEP (Universal Coverage for Emergency Patients)  for  government agencies in Thailand.
 
 ## 📚 Learning
 - AI
